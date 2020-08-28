@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**swarajdesh/swarajdesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -10,4 +8,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: linkedin.com/in/swaraj-deshmukh
 - ⚡ Fun fact: Tabs vs Spaces is a real thing
--->
